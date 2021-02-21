@@ -1,2 +1,2 @@
 print(5)
-print(40)
+pri(40)
